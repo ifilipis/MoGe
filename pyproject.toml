@@ -15,6 +15,7 @@ dependencies = [
     "matplotlib",
     "trimesh",
     "pillow",
+    "OpenEXR",
     "huggingface_hub",
     "numpy",
     "torch>=2.0.0",
